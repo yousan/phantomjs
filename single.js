@@ -1,6 +1,6 @@
 // @link http://akagisho.hatenablog.com/entry/2017/02/25/232211
 
-var url = 'http://kimamahouse.com/fs/kimamahouse/full/hajimete';
+var url = 'http://www.yahoo.co.jp';
 
 var page = require('webpage').create();
 page.viewportSize = { width: 1335, height: 2000 };
